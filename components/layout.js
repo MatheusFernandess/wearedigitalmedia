@@ -5,7 +5,7 @@ export default function Layout({ children }){
     <div>
       <head>
         <title>
-          We Are Digital Media | {pages.pages}
+          We Are Digital Media
         </title>
       </head>
       <Navbar />
