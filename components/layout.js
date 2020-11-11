@@ -20,7 +20,7 @@ export default function Layout({ children }){
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            background-color: #5B9FB3;
+            background-color: ##FCFEFF;
           }
           main {
             flex: 1;
