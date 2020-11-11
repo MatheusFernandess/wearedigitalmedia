@@ -14,6 +14,9 @@ export default function(){
           a {
             padding: 0 10px;
           }
+          a:hover {
+            color: darkgreen
+          }
         `}
       </style>
     </nav>
