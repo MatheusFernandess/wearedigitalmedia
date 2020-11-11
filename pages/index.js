@@ -6,6 +6,16 @@ function Home(){
     <Layout>
       <Title>We Are Digital Media</Title>
       <p>iniciando</p>
+      <style>
+        {`
+          p{
+            color: darkgray;
+          }
+          p:hover {
+            color: darkred;
+          }
+        `}
+      </style>
     </Layout>
   )
 }
