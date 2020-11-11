@@ -3,6 +3,7 @@ import Layout from '../components/layout'
 
 function Home(){
   return(
+    
     <Layout>
       <Title>We Are Digital Media</Title>
       <p>Ajudando você a entregar o melhor conteúdo!</p>

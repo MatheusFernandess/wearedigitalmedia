@@ -3,6 +3,11 @@ import Navbar from './navbar'
 export default function Layout({ children }){
   return (
     <div>
+      <head>
+        <title>
+          We Are Digital Media | {pages.pages}
+        </title>
+      </head>
       <Navbar />
       <main>
         {children}
