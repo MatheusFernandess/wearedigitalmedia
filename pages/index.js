@@ -6,7 +6,7 @@ function Home(){
     
     <Layout>
       <Title>We Arre Digital Media</Title>
-      <p>Ajudando você a entregar o melhor conteúdo!</p>
+      <p>Me ajude a te ajudar!</p>
       <style>
         {`
           p{
