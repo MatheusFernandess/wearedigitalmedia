@@ -5,21 +5,24 @@ export default function(){
     <nav>
       <Link href='/'><a>Home</a></Link>
       <Link href='/users'><a>Users</a></Link>
-      <Link href='/posts'><a>Posts</a></Link>
-      <Link href='/contat'><a>Contat</a></Link>
+      <Link href='/posts'><a>Sobre nós</a></Link>
+      <Link href='/contat'><a>Contato</a></Link>
       <style jsx>
         {`
           nav {
             padding: 1% 100%;
             background: #20232a;
             background-size: 100%;
-            margin-bottom: 30px;
+            margin-top: 500px;
+            
             
           }
           a {
             padding: 0 15px;
             color: gray;
             font-family: helvetica;
+            font-color: 
+            
             
 
           }

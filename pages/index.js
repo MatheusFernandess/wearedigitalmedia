@@ -13,7 +13,7 @@ function Home(){
             color: darkgray;
           }
           p:hover {
-            color: darkred;
+            color: #61DAFB;
           }
         `}
       </style>

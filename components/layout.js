@@ -1,4 +1,5 @@
 import Navbar from './navbar'
+import Footer from './footer'
 
 export default function Layout({ children }){
   return (
@@ -12,6 +13,7 @@ export default function Layout({ children }){
       <main>
         {children}
       </main>
+      <Footer/>
       <style jsx>
         {`
           div {
@@ -20,7 +22,7 @@ export default function Layout({ children }){
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            background-color: #D4E3EC;
+            background-color: #e8f8ff;
           }
           main {
             flex: 1;
