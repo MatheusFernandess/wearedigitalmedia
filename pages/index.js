@@ -5,7 +5,7 @@ function Home(){
   return(
     
     <Layout>
-      <Title>We Are Digital Media</Title>
+      <Title>We Arre Digital Media</Title>
       <p>Ajudando você a entregar o melhor conteúdo!</p>
       <style>
         {`
