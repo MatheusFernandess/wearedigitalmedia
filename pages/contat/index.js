@@ -1,12 +1,13 @@
-import Title from '../components/title'
-import Layout from '../components/layout'
+import Layout from '../../components/layout';
+import Title from '../../components/title';
+import Form from '../../components/form'
 
-function Home(){
+function Contato(){
   return(
     
     <Layout>
       <Title>We Arre Digital Media</Title>
-      <p>Ajudando você a entregar o melhor conteúdo!</p>
+      <p>entre em contato hoje mesmo!</p>
       <style>
         {`
           p{
@@ -17,7 +18,8 @@ function Home(){
           }
         `}
       </style>
+      <Form></Form>
     </Layout>
   )
 }
-export default Home
+export default Contato
